@@ -34,6 +34,6 @@
   </div>
 
    <h1> Mere Sapno ki rani kab aaye g tu, Happy Learning </h1>
-   <h1> tera hone lga hu </h1>
+   <h1> Tune jo na kha main wo sunta rha </h1>
   
 </form>
