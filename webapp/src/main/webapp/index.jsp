@@ -33,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Mere Sapno ki rani kab aaye g tu, Happy Learning </h1>
 
   
 </form>
